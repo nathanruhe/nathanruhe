@@ -1,16 +1,75 @@
-## Hi there 👋
+![Header](./BANNER.png)
 
-<!--
-**nathanruhe/nathanruhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- LETRAS MOVIMIENTO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=5000&lines=Fullstack+Web+Developer;Learning+Web+Design;Frontend+Enthusiast&center=true" > 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- FOTO CHICO ORDENADOR -->
+<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+<br>
+
+### SOBRE MI
+- Actualmente estoy desarrollando proyectos propios.
+- Explorando nuevas tecnologias relacionas con el diseño UX / UI.
+- Buscando colaborar en nuevos proyectos y oportunidades laborales.
+- Puedes visitar mi <a href="https://nathanruhe.github.io/">Portafolio</a> para ver algunos proyectos.
+- Conectamos? <a href="mailto:nathan.ruhe@hotmail.com">Email</a> / <a href="https://www.linkedin.com/in/nathanruhe">Linkedin</a>
+- Dato curioso: "No hay lugar como localhost"
+
+<!-- RALLA COLOR MOVIMIENTO -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### SKILLS
+##### Frontend 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,jquery)](https://skillicons.dev)
+##### Backend 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb)](https://skillicons.dev)
+##### Tools, IDEs & Softwares
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,aws,vscode)](https://skillicons.dev)
+##### Design
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+
+<!-- RALLA COLOR MOVIMIENTO -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### ESTADISTICAS
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanruhe&theme=gotham&show_icons=true" alt="ravisolanki" />
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nathanruhe&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
+</p>
+
+<br>
+
+<!-- RALLA COLOR MOVIMIENTO -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+### CERTIFICACIONES
+<p align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="300" />
+</p>
+
+<!-- RALLA COLOR MOVIMIENTO -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- CONTACTAME -->
+### CONTACTO
+<p align="center">
+  <a href="https://linkedin.com/in/nathanruhe"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nathanruhe"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:nathan.ruhe@hotmail.com"><img alt="Email" title="Jaydeep Yadav Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+  <!-- COMENTADO DE MOMENTO
+  <a href="https://facebook.com/ [aqui el nombre sin corchetes] "><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://instagram.com/ [aqui el nombre sin corchetes] ><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   -->
+ </p>
+
+<br><br><br>
+
+<p align="center"><b>Gracias por visitarme!</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/nathanruhe/count.svg" alt="visitor badge"/></p>
+

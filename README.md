@@ -24,13 +24,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### SKILLS
-##### Frontend 
+#### Frontend 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,jquery)](https://skillicons.dev)
-##### Backend 
+#### Backend 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb)](https://skillicons.dev)
-##### Tools, IDEs & Softwares
+#### Tools, IDEs & Softwares
 [![My Skills](https://skillicons.dev/icons?i=git,github,vercel,aws,vscode)](https://skillicons.dev)
-##### Design
+#### Design
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 <!-- RALLA COLOR MOVIMIENTO -->
@@ -38,8 +38,8 @@
 
 ### ESTADISTICAS
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanruhe&theme=gotham&show_icons=true" alt="ravisolanki" />
-    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=nathanruhe&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=nathanruhe&theme=gotham&show_icons=true" alt="ravisolanki" />
+    <img align="center" width="400" src="http://github-readme-streak-stats.herokuapp.com?user=nathanruhe&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ravisolanki" />
 </p>
 
 <br>
@@ -49,7 +49,7 @@
 
 ### CERTIFICACIONES
 <p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="300" />
+    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="200" />
 </p>
 
 <!-- RALLA COLOR MOVIMIENTO -->

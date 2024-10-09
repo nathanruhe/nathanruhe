@@ -50,6 +50,7 @@
 ### CERTIFICACIONES
 <p align="center">
     <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="200" />
+    <img src="https://drive.google.com/uc?export=view&id=1NR-Zxj5FE42lXtuwyMt15DphNY6rnDCV" alt="Figma Esencial" width="200" />
 </p>
 
 <!-- RALLA COLOR MOVIMIENTO -->

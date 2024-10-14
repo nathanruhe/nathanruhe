@@ -25,11 +25,11 @@
 
 ### SKILLS
 #### Frontend 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap,tailwind,jquery)](https://skillicons.dev)
 #### Backend 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb)](https://skillicons.dev)
 #### Tools, IDEs & Softwares
-[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,aws,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,aws,vscode)](https://skillicons.dev)
 #### Design
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
@@ -63,14 +63,12 @@
   <a href="https://github.com/nathanruhe"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:nathan.ruhe@hotmail.com"><img alt="Email" title="Jaydeep Yadav Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-  <!-- COMENTADO DE MOMENTO
+  <!--
   <a href="https://facebook.com/ [aqui el nombre sin corchetes] "><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://instagram.com/ [aqui el nombre sin corchetes] ><img alt="Instagram" title="Jaydeep Yadav Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    -->
  </p>
 
-<br><br><br>
-
 <p align="center"><b>Gracias por visitarme!</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/nathanruhe/count.svg" alt="visitor badge"/></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/nathanruhe/count.svg" alt="visitor badge"/></p> -->
 

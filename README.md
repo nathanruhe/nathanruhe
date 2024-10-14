@@ -29,7 +29,7 @@
 #### Backend 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,mysql,mongodb)](https://skillicons.dev)
 #### Tools, IDEs & Softwares
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,aws,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vercel,aws,vite,vscode)](https://skillicons.dev)
 #### Design
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 

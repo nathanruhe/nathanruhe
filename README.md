@@ -17,7 +17,7 @@
 - Explorando nuevas tecnologias relacionas con el diseño UX / UI.
 - Buscando colaborar en nuevos proyectos y oportunidades laborales.
 - Puedes visitar mi <a href="https://nathanruhe.github.io/">Portafolio</a> para ver algunos proyectos.
-- Conectamos? <a href="mailto:nathan.ruhe@hotmail.com">Email</a> / <a href="https://www.linkedin.com/in/nathanruhe" target="_blank">Linkedin</a>
+- Conectamos? [Email](mailto:nathan.ruhe@hotmail.com) / [Linkedin](https://www.linkedin.com/in/nathanruhe)
 - Dato curioso: "No hay lugar como localhost"
 
 <!-- RALLA COLOR MOVIMIENTO -->

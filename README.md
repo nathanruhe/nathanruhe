@@ -48,12 +48,13 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 ### CERTIFICACIONES
-<p align="center">
-    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="200" />
-    <img src="https://drive.google.com/uc?export=view&id=1NR-Zxj5FE42lXtuwyMt15DphNY6rnDCV" alt="Figma Avanzado" width="200" />
-    <img src="https://drive.google.com/uc?export=view&id=1bTVhoiqm1lK9lW2G14RP_LTohztIRNrc" alt="Diseño de interfaz (UI) esencial" width="200" />
-    <img src="https://drive.google.com/uc?export=view&id=1HEBtzZALXwvpJ9mTdogrRjUQCsrc7puk" alt="Diseño de interfaz (UI) esencial" width="200" />
-</p>
+<div align="center">
+    <img src="https://drive.google.com/uc?export=view&id=1OtQqXB6xgUATvwzM5iRK9uLG6xm4WP81" alt="Fundamentos" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1NR-Zxj5FE42lXtuwyMt15DphNY6rnDCV" alt="Figma Avanzado" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1bTVhoiqm1lK9lW2G14RP_LTohztIRNrc" alt="Diseño de interfaz (UI) esencial" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1HEBtzZALXwvpJ9mTdogrRjUQCsrc7puk" alt="Diseño de interfaz (UI) esencial" width="180" />
+</div>
 
 <!-- RALLA COLOR MOVIMIENTO -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

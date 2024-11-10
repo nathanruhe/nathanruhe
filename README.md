@@ -16,8 +16,8 @@
 - Actualmente estoy desarrollando proyectos propios.
 - Explorando nuevas tecnologias relacionas con el diseño UX / UI.
 - Buscando colaborar en nuevos proyectos y oportunidades laborales.
-- Puedes visitar mi <a href="https://nathanruhe.github.io/">Portafolio</a> para ver algunos proyectos.
-- Conectamos? [Email](mailto:nathan.ruhe@hotmail.com) / [Linkedin](https://www.linkedin.com/in/nathanruhe)
+- Puedes visitar mi <a href="https://nathanruhe.github.io/">Portfolio</a> para ver algunos proyectos.
+- Conectamos? [Email](mailto:nathan.ruhe@hotmail.com) / [Linkedin](https://www.linkedin.com/in/nathanruhe) / [Discord](https://discord.com/users/1102680805261725767)
 - Dato curioso: "No hay lugar como localhost"
 
 <!-- RALLA COLOR MOVIMIENTO -->
@@ -50,10 +50,10 @@
 ### CERTIFICACIONES
 <div align="center">
     <img src="https://drive.google.com/uc?export=view&id=1OtQqXB6xgUATvwzM5iRK9uLG6xm4WP81" alt="Fundamentos" width="180" />
-    <img src="https://drive.google.com/uc?export=view&id=1uQbUoUJbDvq8FufVrjLgLYw2JXvFybnr" alt="Figma Esencial" width="180" />
-    <img src="https://drive.google.com/uc?export=view&id=1NR-Zxj5FE42lXtuwyMt15DphNY6rnDCV" alt="Figma Avanzado" width="180" />
-    <img src="https://drive.google.com/uc?export=view&id=1bTVhoiqm1lK9lW2G14RP_LTohztIRNrc" alt="Diseño de interfaz (UI) esencial" width="180" />
-    <img src="https://drive.google.com/uc?export=view&id=1HEBtzZALXwvpJ9mTdogrRjUQCsrc7puk" alt="Diseño de interfaz (UI) esencial" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1i74bE02jyb5ejSSPAFu7ZD6nbWqrDcnV" alt="Figma Esencial" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1tFprQ9qLJGFGhEReBvd_0HYBCKi4za5w" alt="Figma Avanzado" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=1iaK2jiphAv4Pkmd997abZRbkZqSIdZ_L" alt="Diseño de interfaz (UI) esencial" width="180" />
+    <img src="https://drive.google.com/uc?export=view&id=10foIWpgud5pvrk9obw-uskMspkuKiOzg" alt="Diseño de interfaz (UX) esencial" width="180" />
 </div>
 
 <!-- RALLA COLOR MOVIMIENTO -->
@@ -62,10 +62,10 @@
 <!-- CONTACTAME -->
 ### CONTACTO
 <p align="center">
-  <a href="https://linkedin.com/in/nathanruhe"><img alt="Linkedin" title="Jaydeep Yadav Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/nathanruhe"><img alt="Github" title="Jaydeep Yadav Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="mailto:nathan.ruhe@hotmail.com"><img alt="Email" title="Jaydeep Yadav Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://discord.com/users/1102680805261725767"><img alt="Discord" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://linkedin.com/in/nathanruhe"><img alt="Linkedin" title="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/nathanruhe"><img alt="Github" title="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:nathan.ruhe@hotmail.com"><img alt="Email" title="" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.com/users/1102680805261725767"><img alt="Discord" title="" src="https://img.shields.io/badge/Discord-1877F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   
   <!--
   <a href="https://facebook.com/ [aqui el nombre sin corchetes] "><img alt="Facebook" title="Jaydeep Yadav FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
